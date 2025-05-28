@@ -31,5 +31,5 @@
 <h2>:rocket:Tecnologias Utilizadas</h2>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
 
-<h2>:video_game:Jogue o jogo do número secreto!</h2>
-<a>Clique aqui para jogar!</a>
+<h2>:video_game:Jogue o Jogo do Número Secreto!</h2>
+<a href="https://marianaasoares.github.io/jogo-do-numero-secreto/"target="_blank">Clique aqui para jogar!</a>
