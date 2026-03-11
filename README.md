@@ -43,7 +43,7 @@ Este projeto foi desenvolvido com foco em praticar:
 
 
   
-🔗 [Ver projeto](https://conversor-de-moedas-pearl.vercel.app/)
+🔗 [Ver projeto]( https://marianaasoares.github.io/jogo-do-numero-secreto/)
 
 ---
 
