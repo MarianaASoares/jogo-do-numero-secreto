@@ -27,7 +27,7 @@ Este projeto foi desenvolvido com foco em praticar:
 # :dart: Objetivo
 
 <p>O objetivo é descobrir o número secreto entre 0 e 10 com o menor número de tentativas possível.
-<p></pp>Durante o jogo, o usuário recebe dicas que ajudam a se aproximar da resposta correta.</p>
+<p></p>Durante o jogo, o usuário recebe dicas que ajudam a se aproximar da resposta correta.</p>
 
 ---
 
